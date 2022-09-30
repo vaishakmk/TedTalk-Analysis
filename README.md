@@ -28,3 +28,6 @@ clustering technique for ted talks."International Journal of Information Technol
 [3]. Oh, Jaehoon, Injung Lee, Yeon Seonwoo, Simin Sung, Ilbong Kwon, and Jae-Gil Lee."TED talk
 recommender using speech transcripts."In 2018 IEEE/ACM International Conference on Advances in Social
 Networks Analysis and Mining (ASONAM), pp. 598-600. IEEE, 2018.
+
+
+[CMPE 255 final project report.pdf](https://github.com/vaishakmk/TedTalk-Analysis/files/9680387/CMPE.255.final.project.report.pdf)
