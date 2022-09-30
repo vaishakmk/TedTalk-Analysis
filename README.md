@@ -30,4 +30,4 @@ recommender using speech transcripts."In 2018 IEEE/ACM International Conference 
 Networks Analysis and Mining (ASONAM), pp. 598-600. IEEE, 2018.
 
 
-[CMPE 255 final project report.pdf](https://github.com/vaishakmk/TedTalk-Analysis/files/9680387/CMPE.255.final.project.report.pdf)
+
